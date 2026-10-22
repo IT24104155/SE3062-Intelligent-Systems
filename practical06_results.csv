@@ -1,0 +1,13 @@
+Variant,Seed,Best fitness,Weight,Value,Gen first reaches baseline median
+Baseline,42,3374,538,3374,198
+Baseline,43,3363,538,3363,Not reached
+Baseline,44,3387,535,3387,178
+Tournament k=2,42,3256,538,3256,Not reached
+Tournament k=2,43,3263,536,3263,Not reached
+Tournament k=2,44,3274,538,3274,Not reached
+Uniform crossover,42,3339,536,3339,Not reached
+Uniform crossover,43,3371,538,3371,Not reached
+Uniform crossover,44,3385,537,3385,121
+Mutation p=0.10,42,3025,536,3025,Not reached
+Mutation p=0.10,43,2895,536,2895,Not reached
+Mutation p=0.10,44,2887,536,2887,Not reached
